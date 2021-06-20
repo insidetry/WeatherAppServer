@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <PublishSingleFile>true</PublishSingleFile>
+	  <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+	  <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+	  <EnableDynamicLoading>true</EnableDynamicLoading>
+	  <Platforms>AnyCPU;x64</Platforms>
+	  <UserSecretsId>461f982d-57f6-4f70-888a-bfb18be64794</UserSecretsId>
+  </PropertyGroup>
+
+
+</Project>
